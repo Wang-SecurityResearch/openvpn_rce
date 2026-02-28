@@ -2,5 +2,6 @@
 # Install using: pip install -r requirements.txt
 
 # ctf_toolkit: provides 'send_smuggling_packet' functionality used in poc_generator.py
-requests @ git+https://github.com/Wang-SecurityResearch/ctf_toolkit.git
+ctf_toolkit @ git+https://github.com/Wang-SecurityResearch/ctf_toolkit.git
+
 
