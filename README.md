@@ -38,7 +38,7 @@ The vulnerability leverages a legitimate feature of OpenVPN: the ability to exec
 - **Python 3.8+** is required.
 - Install dependencies:
   ```bash
-  pip install ctf_toolkit==0.1.0
+  pip install git+https://github.com/Wang-SecurityResearch/ctf_toolkit.git
   ```
 
 ### 2. OpenSSL Configuration
@@ -99,3 +99,4 @@ payloads = {
 
 ---
 *Created by Antigravity PoC Suite*
+
